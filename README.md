@@ -1,5 +1,3 @@
-# .github
-
 A map based service building on community contributions to create a 
 database of points of interest.
 
